@@ -12,3 +12,8 @@ Its Landau notation is: O(k+n)
 
 Note! This implementation will fail if one of the input values is below 0 (zero).
 Anyway, it is probably sufficient for most cases.
+
+If you are German, you probably know TheSimpleClub
+which is the place where I got this algorithm from in order to implement it (inclusive its first test scenario shown in the video):
+
+https://www.youtube.com/watch?v=0yZgRWFUyAI

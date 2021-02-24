@@ -6,7 +6,7 @@ Its Landau notation is: O(k+n)
 
 **whereas**:
 
-**n** is: **amount of input elements**
+**n** is: the **amount of input elements**
 
 **k** is: the **size of the "number interval" ¹** (see details on the implementation and comments)
 
